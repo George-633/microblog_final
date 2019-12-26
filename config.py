@@ -16,3 +16,4 @@ class Config(object):
     MAIL_DEFAULT_SENDER = '112063126@qq.com'
     ADMINS = ['112063126@qq.com']
     POSTS_PER_PAGE = 3
+    LANGUAGES = ['en', 'ch']
